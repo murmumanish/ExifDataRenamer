@@ -21,7 +21,7 @@ This is a File Renamer written in Java , which read exif data of file like Date 
 
     Command Line Argument:
 
-    java -jar ExifDataRenamer-1.0.jar arg1 arg2
+    java -jar ExifDataRenamer-1.5.jar arg1 arg2
     arg1 - FolderPath (Required)
     arg2 - Format (Optional)
 
@@ -30,7 +30,7 @@ This is a File Renamer written in Java , which read exif data of file like Date 
 ##  Example
 
     
-    java -jar ExifDataRenamer-1.0.jar /storage/emulated/0/TEST/ yyy-MM-dd_HH-mm-ss
+    java -jar ExifDataRenamer-1.5.jar /storage/emulated/0/TEST/ yyy-MM-dd_HH-mm-ss
 
 
 ## Dependencies
@@ -38,5 +38,5 @@ This is a File Renamer written in Java , which read exif data of file like Date 
 This Project use [metadata-extractor](https://github.com/drewnoakes/metadata-extractor) it is a Java library for reading metadata from media files.
 ## Authors
 
-- [@manish222261](https://github.com/manish222261-code/)
+- [@manish222261](https://github.com/murmumanish/)
 
