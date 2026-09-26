@@ -7,7 +7,7 @@
 
     <groupId>com.murmu</groupId>
     <artifactId>exif-data-renamer</artifactId>
-    <version>1.1.0</version>
+    <version>1.5</version>
     <packaging>jar</packaging>
     <name>Exif Data Renamer</name>
     <description>Rename photos and videos from embedded metadata timestamps.</description>
